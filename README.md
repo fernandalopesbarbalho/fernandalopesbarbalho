@@ -6,7 +6,7 @@ Minha meta é a cada dia fazer pequenas atualizações em meus repositórios par
 
 ## Languages
 
-[![My Skills](https://skills.thijs.gg/icons?i=py,c,java,js,cpp,arduino&theme=dark)](https://skills.thijs.gg)
+[![Skills](https://skills.thijs.gg/icons?i=py,c,java,js,cpp,arduino&theme=dark)](https://skills.thijs.gg)
 
 ## Stats
 

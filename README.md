@@ -10,9 +10,3 @@ Estou constantemente em busca de oportunidades para me desenvolver. No momento, 
 ## Languages
 
 [![Skills](https://skills.thijs.gg/icons?i=py,c,java,js,cpp,arduino&theme=dark)](https://skills.thijs.gg)
-
-## Stats
-
-![Fernada's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandalopesbarbalho&count_private=true&show_icons=true&theme=radical)
-
-## Ainda em Atualização

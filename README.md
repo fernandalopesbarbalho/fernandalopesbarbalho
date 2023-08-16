@@ -9,4 +9,4 @@ Estou constantemente em busca de oportunidades para me desenvolver. No momento, 
 
 ## Languages
 
-[![Skills](https://skills.thijs.gg/icons?i=py,c,java,js,cpp,arduino&theme=dark)](https://skills.thijs.gg)
+[![Skills](https://skills.thijs.gg/icons?i=py,c,java,js,html,css,cpp,arduino&theme=dark)](https://skills.thijs.gg)

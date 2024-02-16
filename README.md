@@ -1,6 +1,6 @@
 # Hello World! I am Fernanda!👋
 
-Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo e busco ingressar no mundo profissional como estagiária para contribuir com entusiasmo na área de tecnologia. 
+Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo e ingressei no mundo profissional como estagiária para contribuir com entusiasmo na área de tecnologia. 
 
 Estou constantemente em busca de oportunidades para me desenvolver. No momento, estou estudando sobre proteção de dados e cibersegurança.
 

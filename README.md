@@ -30,6 +30,12 @@ Estou constantemente em busca de oportunidades para me desenvolver. No momento, 
 ### 3º Semestre:
 [Site 1 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-01)
 
+[Site 2 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-03-pt302525x)
+
+[Site 3 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-04-pt302525x)
+
+[Estrutura de dados em C](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3)
+
 ## Cursos:
 [Site HTML e CSS](https://github.com/fernandalopesbarbalho/site-alura)
 

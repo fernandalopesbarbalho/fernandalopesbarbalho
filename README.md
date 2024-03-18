@@ -36,6 +36,8 @@ Estou constantemente em busca de oportunidades para me desenvolver. No momento, 
 
 [Estrutura de dados em C](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3)
 
+[Exercícios SQL](https://github.com/fernandalopesbarbalho/sql-ifsp-semestre3)
+
 ## Cursos:
 [Site HTML e CSS](https://github.com/fernandalopesbarbalho/site-alura)
 

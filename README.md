@@ -28,11 +28,15 @@ Estou constantemente em busca de oportunidades para me desenvolver. No momento, 
 [Projeto de Extensão SQL](https://github.com/fernandalopesbarbalho/ifsp-sql-versionary)
 
 ### 3º Semestre:
-[Site 1 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-01)
+[Site 1 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-01-pt302525x)
 
 [Site 2 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-03-pt302525x)
 
 [Site 3 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-04-pt302525x)
+
+[Site 4 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-05-pt302525x)
+
+[Site 5 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-06-pt302525x)
 
 [Estrutura de dados em C](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3)
 

@@ -51,3 +51,6 @@ Estou constantemente em busca de oportunidades para me desenvolver. No momento, 
 [Olímpiada de Informática Python](https://github.com/fernandalopesbarbalho/olimpiada-de-informatica)
 
 [Processo Seletivo Python](https://github.com/fernandalopesbarbalho/desafio-pwc)
+
+## Colinhas
+[Estudos Python](https://github.com/fernandalopesbarbalho/estudos-python)

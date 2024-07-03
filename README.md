@@ -1,4 +1,4 @@
-# Hello World! I am Fernanda!👋
+# Hello World!🌈I am Fernanda!👋
 
 Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo e ingressei no mundo profissional como estagiária para contribuir com entusiasmo na área de tecnologia. 
 
@@ -12,7 +12,7 @@ Estou constantemente em busca de oportunidades para me desenvolver. No momento, 
 [![Skills](https://skills.thijs.gg/icons?i=py,c,java,js,html,css,cpp,arduino&theme=dark)](https://skills.thijs.gg)
 
 # Sumário dos Repositórios
-## Faculdade
+## 🎯 Faculdade:
 ### 1º Semestre:
 [Aulas Linguagem C](https://github.com/fernandalopesbarbalho/aulas-ifsp-semestre1)
 
@@ -42,15 +42,15 @@ Estou constantemente em busca de oportunidades para me desenvolver. No momento, 
 
 [Exercícios SQL](https://github.com/fernandalopesbarbalho/sql-ifsp-semestre3)
 
-## Cursos:
+## 🚀 Cursos:
 [Site HTML e CSS](https://github.com/fernandalopesbarbalho/site-alura)
 
 [Códigos em JavaScript](https://github.com/fernandalopesbarbalho/javascript-alura)
 
-## Desafios Técnicos:
+## 🏆 Desafios Técnicos:
 [Olímpiada de Informática Python](https://github.com/fernandalopesbarbalho/olimpiada-de-informatica)
 
 [Processo Seletivo Python](https://github.com/fernandalopesbarbalho/desafio-pwc)
 
-## Colinhas
+## 📝 Colinhas:
 [Estudos Python](https://github.com/fernandalopesbarbalho/estudos-python)

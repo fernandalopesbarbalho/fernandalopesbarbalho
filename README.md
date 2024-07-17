@@ -38,6 +38,8 @@ Estou constantemente em busca de oportunidades para me desenvolver. No momento, 
 
 [Site 5 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-06-pt302525x)
 
+[Site 6 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-07-pt302525x)
+
 [Estrutura de dados em C](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3)
 
 [Exercícios SQL](https://github.com/fernandalopesbarbalho/sql-ifsp-semestre3)

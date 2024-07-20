@@ -7,10 +7,6 @@ Estou constantemente em busca de oportunidades para me desenvolver. No momento, 
 [<img align="left" alt="fernandalopesbarbalho | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fernandalopesbarbalho/)
 <br>
 
-## Languages
-
-[![Skills](https://skills.thijs.gg/icons?i=py,c,java,js,html,css,cpp,arduino&theme=dark)](https://skills.thijs.gg)
-
 # Sumário dos Repositórios
 ## 🎯 Faculdade:
 ### 1º Semestre:

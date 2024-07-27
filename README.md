@@ -1,4 +1,4 @@
-# Hello World!🌈I am Fernanda!👋
+# Hello World! I am Fernanda!🌈
 
 Estudo Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo e ingressei no mundo profissional como estagiária para contribuir com entusiasmo na área de tecnologia. 
 
@@ -24,17 +24,7 @@ Estou constantemente em busca de oportunidades para me desenvolver. No momento, 
 [Projeto de Extensão SQL](https://github.com/fernandalopesbarbalho/ifsp-sql-versionary)
 
 ### 3º Semestre:
-[Site 1 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-01-pt302525x)
-
-[Site 2 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-03-pt302525x)
-
-[Site 3 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-04-pt302525x)
-
-[Site 4 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-05-pt302525x)
-
-[Site 5 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-06-pt302525x)
-
-[Site 6 HTML e CSS](https://github.com/fernandalopesbarbalho/dwba4-semana-07-pt302525x)
+Sites HTML, CSS e JavaScript: [1](https://github.com/fernandalopesbarbalho/dwba4-semana-01-pt302525x), [2](https://github.com/fernandalopesbarbalho/dwba4-semana-03-pt302525x), [3](https://github.com/fernandalopesbarbalho/dwba4-semana-04-pt302525x), [4](https://github.com/fernandalopesbarbalho/dwba4-semana-05-pt302525x), [5](https://github.com/fernandalopesbarbalho/dwba4-semana-06-pt302525x), [6](https://github.com/fernandalopesbarbalho/dwba4-semana-07-pt302525x)
 
 [Estrutura de dados em C](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3)
 

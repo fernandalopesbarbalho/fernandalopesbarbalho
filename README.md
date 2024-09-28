@@ -24,11 +24,14 @@ Estou constantemente em busca de oportunidades para me desenvolver. No momento, 
 [Projeto de Extensão SQL](https://github.com/fernandalopesbarbalho/ifsp-sql-versionary)
 
 ### 3º Semestre:
-Desenvolvimento Web: [1](https://github.com/fernandalopesbarbalho/dwba4-semana-01-pt302525x), [2](https://github.com/fernandalopesbarbalho/dwba4-semana-03-pt302525x), [3](https://github.com/fernandalopesbarbalho/dwba4-semana-04-pt302525x), [4](https://github.com/fernandalopesbarbalho/dwba4-semana-05-pt302525x), [5](https://github.com/fernandalopesbarbalho/dwba4-semana-06-pt302525x), [6](https://github.com/fernandalopesbarbalho/dwba4-semana-07-pt302525x), [7](https://github.com/fernandalopesbarbalho/dwba4-semana-08-pt302525x), [8](https://github.com/fernandalopesbarbalho/dwba4-semana-09-pt302525x), [9](https://github.com/fernandalopesbarbalho/dwba4-semana-10-pt302525x), [10](https://github.com/fernandalopesbarbalho/dwba4-semana-11-pt302525x)
+Desenvolvimento Web - Cliente: [1](https://github.com/fernandalopesbarbalho/dwba4-semana-01-pt302525x), [2](https://github.com/fernandalopesbarbalho/dwba4-semana-03-pt302525x), [3](https://github.com/fernandalopesbarbalho/dwba4-semana-04-pt302525x), [4](https://github.com/fernandalopesbarbalho/dwba4-semana-05-pt302525x), [5](https://github.com/fernandalopesbarbalho/dwba4-semana-06-pt302525x), [6](https://github.com/fernandalopesbarbalho/dwba4-semana-07-pt302525x), [7](https://github.com/fernandalopesbarbalho/dwba4-semana-08-pt302525x), [8](https://github.com/fernandalopesbarbalho/dwba4-semana-09-pt302525x), [9](https://github.com/fernandalopesbarbalho/dwba4-semana-10-pt302525x), [10](https://github.com/fernandalopesbarbalho/dwba4-semana-11-pt302525x)
 
 [Estrutura de dados em C](https://github.com/fernandalopesbarbalho/estrutura-ifsp-semestre3)
 
 [Exercícios SQL](https://github.com/fernandalopesbarbalho/sql-ifsp-semestre3)
+
+### 4º Semestre:
+[Desenvolvimento Web - Servidor](https://github.com/fernandalopesbarbalho/dsws-ifsp-semestre4)
 
 ## 🚀 Cursos:
 [Site HTML e CSS](https://github.com/fernandalopesbarbalho/site-alura)

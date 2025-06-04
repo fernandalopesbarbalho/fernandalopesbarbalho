@@ -35,6 +35,13 @@ Desenvolvimento Web - Cliente: [1](https://github.com/fernandalopesbarbalho/dwba
 
 [Prova Desenvolvimento Web - Servidor](https://github.com/fernandalopesbarbalho/dsws-prova-ifsp-semestre4)
 
+### 5º Semestre:
+[APIs e Microsserviços](https://github.com/fernandalopesbarbalho/api-ifsp-semestre5)
+
+[Desenvolvimento Mobile DartPad](https://github.com/fernandalopesbarbalho/mobile-ifsp-semestre5)
+
+[Desenvolvimento Mobile Firebase](https://github.com/fernandalopesbarbalho/myapp)
+
 ## 🚀 Cursos:
 [Site HTML e CSS](https://github.com/fernandalopesbarbalho/site-alura)
 
